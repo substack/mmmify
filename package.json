@@ -1,0 +1,36 @@
+{
+    "name": "mmmify",
+    "version": "0.0.0",
+    "description": "maximally minimal modules for a hypothetical es6",
+    "main": "index.js",
+    "dependencies": {
+        "falafel": "~0.2.0"
+    },
+    "devDependencies": {
+        "tap": "~0.4.0",
+        "browserify": "~2.4.3"
+    },
+    "scripts": {
+        "test": "tap test/*.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/substack/mmmify.git"
+    },
+    "homepage": "https://github.com/substack/mmmify",
+    "keywords": [
+        "es6",
+        "import",
+        "export",
+        "hypothetical",
+        "commonj-esque",
+        "module",
+        "system"
+    ],
+    "author": {
+        "name": "James Halliday",
+        "email": "mail@substack.net",
+        "url": "http://substack.net"
+    },
+    "license": "MIT"
+}
