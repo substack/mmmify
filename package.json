@@ -1,6 +1,6 @@
 {
     "name": "mmmify",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "maximally minimal modules for a hypothetical es6",
     "main": "index.js",
     "dependencies": {
