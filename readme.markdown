@@ -9,6 +9,8 @@ ES6 modules are some namespacey thing that doesn't care about the right things
 to make modularity really work. This proposal is by no means perfect but it
 would be *so much* better.
 
+[![build status](https://secure.travis-ci.org/substack/mmmify.png)](http://travis-ci.org/substack/mmmify)
+
 # syntax
 
 Use `import PATH` to load a module from the string `PATH`. `import` is a keyword
