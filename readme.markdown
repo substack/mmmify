@@ -63,7 +63,7 @@ var mmmify = require('mmmify')
 ```
 
 This module is a
-[browserify transform](github.com/substack/node-browserify#btransformtr)
+[browserify transform](http://github.com/substack/node-browserify#btransformtr)
 but you don't need to use browserify necessarily to use it.
 
 ## mmmify()
